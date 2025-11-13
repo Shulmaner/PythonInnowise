@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="df722ee0-e9e2-435b-9299-f54b55af3a7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProjectInnowise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df722ee0-e9e2-435b-9299-f54b55af3a7c" name="Changes" comment="Initial commit: Project structure and gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +44,19 @@
       <option name="presentableId" value="Default" />
       <updated>1762958247187</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit: Project structure and gitignore">
+      <option name="closed" value="true" />
+      <created>1762959888774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762959888774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit: Project structure and gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit: Project structure and gitignore" />
   </component>
 </project>
